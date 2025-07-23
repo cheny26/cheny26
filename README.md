@@ -6,6 +6,7 @@
 </div
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cheny26" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheny26" /> </div>
 
